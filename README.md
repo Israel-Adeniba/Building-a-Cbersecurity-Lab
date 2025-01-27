@@ -124,15 +124,19 @@ Open Windows Server 2022 on VirtualBox:  <br/>
 <img src="https://imgur.com/bLFxPla.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Complete installation and Setup procees:  <br/>
+ Complete installation and Setup process:  <br/>
 <img src="https://i.imgur.com/kXoYssq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+ Windows Server 2022 installation complete:  <br/>
+<img src="https://i.imgur.com/470ghIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/G43rDJ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+  
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/G43rDJ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
