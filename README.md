@@ -50,8 +50,8 @@ Download Windows Server 2022: Select the ISO file  <br/>
 <img src="https://imgur.com/f1P2mbM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select the ISO download 64-bit edition : <br/>
+<img src="https://imgur.com/NhooXIz.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
