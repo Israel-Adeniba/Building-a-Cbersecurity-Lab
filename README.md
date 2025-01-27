@@ -104,23 +104,16 @@ Log-in: username: kali, password: kali  <br/>
 <img src="https://imgur.com/6TJOoJS.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <br />
 <br />
-Setup Windows Server 2022; Click New in VirtualBox  <br/>
-<img src="https://imgur.com/GLFy3Ad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup Windows Server 2022; Click New in VirtualBox, fill name: Windows Server 2022,  add a destination folder, type: Microsoft Windows  the parameters   <br/>
+<img src="https://imgur.com/u9mvILb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
-
-
-
-
-
-  
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+For the hardware, we selected 4MB and 1 CPU  :  <br/>
+<img src="https://i.imgur.com/0rOXxin.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select the file location, choose VirtualBox Disk Image (VDI) as it can only be used by VirtualBox. Finish setup :  <br/>
+<img src="https://i.imgur.com/5PK7F5k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Install and open VirtualBox:  <br/>
