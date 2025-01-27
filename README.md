@@ -96,43 +96,46 @@ Downloaded file (7 Zip): <br/>
 <br />
 Set-up Kali-linux in the virtual environment; Click "Add" in VirtualBox, select the extracted file <br/>
 <img src="https://imgur.com/YBWUdi8.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
-<img src="https://imgur.com/GLFy3Ad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/GLFy3Ad.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Log-in: username: kali, password: kali  <br/>
-<img src="https://imgur.com/muQ5CkL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/6TJOoJS.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://imgur.com/muQ5CkL.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/6TJOoJS.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Step"/>
 <br />
 <br />
 Setup Windows Server 2022; Click New in VirtualBox, fill name: Windows Server 2022,  add a destination folder, type: Microsoft Windows  the parameters   <br/>
-<img src="https://imgur.com/u9mvILb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/u9mvILb.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 For the hardware, we selected 4MB and 1 CPU:  <br/>
-<img src="https://i.imgur.com/0rOXxin.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0rOXxin.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Select the file location, choose VirtualBox Disk Image (VDI) as it can only be used by VirtualBox. Finish setup :  <br/>
-<img src="https://i.imgur.com/5PK7F5k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5PK7F5k.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Open Windows Server 2022 on VirtualBox:  <br/>
-<img src="https://imgur.com/gCvUJJy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gCvUJJy.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
  Select the downloaded Windows Server 2022 file when prompted. Click "Mount and Retry Boot"  <br/>
-<img src="https://imgur.com/bLFxPla.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/bLFxPla.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
  Complete installation and Setup process:  <br/>
-<img src="https://i.imgur.com/kXoYssq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kXoYssq.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
  Windows Server 2022 installation complete:  <br/>
-<img src="https://i.imgur.com/470ghIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/G43rDJ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/470ghIM.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://i.imgur.com/G43rDJ1.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
+
+
+
 
   
 Confirm your selection:  <br/>
