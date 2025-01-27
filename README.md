@@ -38,7 +38,7 @@ Firstly we would download all the files we need which include;
 
 Nota bene: I strongly recommend creating a new folder to store the downloaded files. 
 
-
+# Downloads
 <p align="center">
  : <br/>
 Download VirtualBox: <br/>
@@ -48,10 +48,6 @@ Download VirtualBox: <br/>
 <br />
  Downloaded file:  <br/>
 <img src="https://imgur.com/oG77khJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- Download Windows Server 2022: Select the ISO file  <br/>
-<img src="https://imgur.com/f1P2mbM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the ISO download 64-bit edition : <br/>
@@ -91,7 +87,20 @@ Downloaded file (7 Zip): <br/>
 <br />
 <br />
  
-Wait for process to complete (may take some time):  <br/>
+ # Setup and Installation
+ Install and open VirtualBox:  <br/>
+<img src="https://imgur.com/qxFqyEv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+ Download Windows Server 2022: Select the ISO file  <br/>
+<img src="https://imgur.com/f1P2mbM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+ 
+Wait for download to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />Wait for process to complete (may take some time):  <br/>
@@ -106,7 +115,14 @@ Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+Install and open VirtualBox:  <br/>
+<img src="https://imgur.com/qxFqyEv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Download Windows Server 2022: Select the ISO file  <br/>
+<img src="https://imgur.com/f1P2mbM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
  Wait for process to complete (may take some time):  <br/>
