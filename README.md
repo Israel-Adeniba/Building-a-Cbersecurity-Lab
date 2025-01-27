@@ -66,12 +66,64 @@ Dowload Windows 10 Enterprise: Select the ISO file <br/>
 <img src="https://imgur.com/i2MDWIB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
- Confirm your selection:  <br/>
+Select the corresponding ISO Enterprise download:  <br/>
+<img src="https://imgur.com/6zsawvN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Downloaded file:  <br/>
+<img src="https://imgur.com/87n7ILy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Download Metasploitable (may take some time):  <br/>
+<img src="https://imgur.com/FE7MeBz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Downloaded file:  <br/>
+<img src="https://imgur.com/DrlaREc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Download Kali-Linux (may take some time):  <br/>
+<img src="https://imgur.com/0ihBrGt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Downloaded file (7 Zip): <br/>
+<img src="https://imgur.com/87ER2eJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ 
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
+ Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
