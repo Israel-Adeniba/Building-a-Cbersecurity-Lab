@@ -41,8 +41,9 @@ Nota bene: I strongly advice you create a new folder on your computer for this p
 
 <p align="center">
  : <br/>
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download VirtualBox: <br/>
+ Click on the corresponding operating system you have; there are options for MacOS, Windows, Linux and Solaris.
+<img src="https://imgur.com/1w7qPhN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
