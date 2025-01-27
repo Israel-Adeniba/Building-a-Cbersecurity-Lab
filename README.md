@@ -104,10 +104,17 @@ Log-in: username: kali, password: kali  <br/>
 <img src="https://imgur.com/6TJOoJS.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <br />
 <br />
-Setup Windows Server 2022; Click New in VirtualBox  Wait for process to complete (may take some time):  <br/>
+Setup Windows Server 2022; Click New in VirtualBox  <br/>
 <img src="https://imgur.com/GLFy3Ad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+
+
+
+
+
+  
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
