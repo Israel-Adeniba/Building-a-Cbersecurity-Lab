@@ -43,47 +43,47 @@ Nota bene: I strongly recommend creating a new folder to store the downloaded fi
  : <br/>
 Download VirtualBox: <br/>
  Click on the corresponding operating system you have; there are options for MacOS, Windows, Linux and Solaris.
-<img src="https://imgur.com/1w7qPhN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1w7qPhN.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
  Downloaded file:  <br/>
-<img src="https://imgur.com/oG77khJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/oG77khJ.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Select the ISO download 64-bit edition : <br/>
-<img src="https://imgur.com/NhooXIz.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/NhooXIz.png height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Downloaded file:  <br/>
-<img src="https://imgur.com/Nv8WwV6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Nv8WwV6.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Dowload Windows 10 Enterprise: Select the ISO file <br/>
-<img src="https://imgur.com/i2MDWIB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/i2MDWIB.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Select the corresponding ISO Enterprise download:  <br/>
-<img src="https://imgur.com/6zsawvN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6zsawvN.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Downloaded file:  <br/>
-<img src="https://imgur.com/87n7ILy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/87n7ILy.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Download Metasploitable (may take some time):  <br/>
-<img src="https://imgur.com/FE7MeBz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FE7MeBz.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Downloaded file:  <br/>
-<img src="https://imgur.com/DrlaREc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/DrlaREc.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-Download Kali-Linux (may take some time):  <br/>
-<img src="https://imgur.com/0ihBrGt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Kali-Linux and unzip (may take some time):  <br/>
+<img src="https://imgur.com/0ihBrGt.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Downloaded file (7 Zip): <br/>
-<img src="https://imgur.com/87ER2eJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/87ER2eJ.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
  
@@ -91,13 +91,11 @@ Downloaded file (7 Zip): <br/>
  <p align="center">
  <br/>
  Install and open VirtualBox:  <br/>
-<img src="https://imgur.com/qxFqyEv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/pN8fwY0.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-
-
- Download Windows Server 2022: Select the ISO file  <br/>
-<img src="https://imgur.com/f1P2mbM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set-up Kali-linux in the virtual environment; Click "Add" in VirtualBox, select the extracted file <br/>
+<img src="https://imgur.com/YBWUdi8.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 
