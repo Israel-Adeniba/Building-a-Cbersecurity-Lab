@@ -108,7 +108,7 @@ Setup Windows Server 2022; Click New in VirtualBox, fill name: Windows Server 20
 <img src="https://imgur.com/u9mvILb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-For the hardware, we selected 4MB and 1 CPU  :  <br/>
+For the hardware, we selected 4MB and 1 CPU:  <br/>
 <img src="https://i.imgur.com/0rOXxin.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -116,18 +116,16 @@ Select the file location, choose VirtualBox Disk Image (VDI) as it can only be u
 <img src="https://i.imgur.com/5PK7F5k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install and open VirtualBox:  <br/>
-<img src="https://imgur.com/qxFqyEv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open Windows Server 2022 on VirtualBox:  <br/>
+<img src="https://imgur.com/gCvUJJy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Download Windows Server 2022: Select the ISO file  <br/>
-<img src="https://imgur.com/f1P2mbM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Select the downloaded Windows Server 2022 file when prompted. Click "Mount and Retry Boot"  <br/>
+<img src="https://imgur.com/bLFxPla.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
-
- Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Complete installation and Setup procees:  <br/>
+<img src="https://i.imgur.com/kXoYssq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
