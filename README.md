@@ -88,6 +88,8 @@ Downloaded file (7 Zip): <br/>
 <br />
  
  # Setup and Installation
+ <p align="center">
+ <br/>
  Install and open VirtualBox:  <br/>
 <img src="https://imgur.com/qxFqyEv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
