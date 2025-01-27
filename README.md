@@ -96,15 +96,16 @@ Downloaded file (7 Zip): <br/>
 <br />
 Set-up Kali-linux in the virtual environment; Click "Add" in VirtualBox, select the extracted file <br/>
 <img src="https://imgur.com/YBWUdi8.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/GLFy3Ad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
- 
-Wait for download to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Log-in: username: kali, password: kali  <br/>
+<img src="https://imgur.com/muQ5CkL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6TJOoJS.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 <br />
-<br />Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+Setup Windows Server 2022; Click New in VirtualBox  Wait for process to complete (may take some time):  <br/>
+<img src="https://imgur.com/GLFy3Ad.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
