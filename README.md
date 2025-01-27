@@ -36,7 +36,7 @@ Firstly we would download all the files we need which include;
 - Kali Linux 
 [https://www.kali.org/get-kali/#kali-virtual-machines] or Go to google, search for Get Kali Linux, click the first link presented as a result, click virtual machine, click virtual box. 
 
-Nota bene: I strongly advice you create a new folder on your computer for this purpose. 
+Nota bene: I strongly recommend creating a new folder to store the downloaded files. 
 
 
 <p align="center">
@@ -46,12 +46,33 @@ Download VirtualBox: <br/>
 <img src="https://imgur.com/1w7qPhN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Download Windows Server 2022: Select the ISO file  <br/>
+ Downloaded file:  <br/>
+<img src="https://imgur.com/oG77khJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Download Windows Server 2022: Select the ISO file  <br/>
 <img src="https://imgur.com/f1P2mbM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the ISO download 64-bit edition : <br/>
 <img src="https://imgur.com/NhooXIz.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Downloaded file:  <br/>
+<img src="https://imgur.com/Nv8WwV6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Dowload Windows 10 Enterprise: Select the ISO file <br/>
+<img src="https://imgur.com/i2MDWIB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+ Confirm your selection:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
@@ -61,12 +82,10 @@ Confirm your selection:  <br/>
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Sanitization complete:  <br/>
+<br />Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Observe the wiped disk:  <br/>
+<br />Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
