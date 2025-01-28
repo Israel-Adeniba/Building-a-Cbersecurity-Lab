@@ -116,11 +116,11 @@ Select the file location, choose VirtualBox Disk Image (VDI) as it can only be u
 <img src="https://i.imgur.com/5PK7F5k.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-Open Windows Server 2022 on VirtualBox:  <br/>
+Start Windows Server 2022 on VirtualBox:  <br/>
 <img src="https://imgur.com/gCvUJJy.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
- Select the downloaded Windows Server 2022 file when prompted. Click "Mount and Retry Boot"  <br/>
+ Select the downloaded Windows Server 2022 file (SERVER_EVAL_x64FRE_en-us.iso) when prompted. Click "Mount and Retry Boot"  <br/>
 <img src="https://imgur.com/bLFxPla.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
@@ -145,10 +145,15 @@ Select the file location, choose VirtualBox Disk Image (VDI) as it can only be u
 <img src="https://i.imgur.com/5PK7F5k.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-Open Windows 10 2025 on VirtualBox:  <br/>
-<img src="https://imgur.com/gCvUJJy.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+Start Windows 10 2025 on VirtualBox:  <br/>
+<img src="https://imgur.com/AMPeSQ9.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
+Select the downloaded Windows 10 file (19045.2006.220908-0225.22h2_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_en-us.iso) when prompted. Click "Mount and Retry Boot"  <br/>
+<img src="https://imgur.com/GKX43gN.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<br />
+<br />
+
 
   
 Wait for process to complete (may take some time):  <br/>
