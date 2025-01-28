@@ -157,15 +157,18 @@ Complete installation and Setup process:  <br/>
 <img src="https://i.imgur.com/4bxraNc.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
- Select "Domain join instead" for Windows 10 2025:  <br/>
+ Select "Domain join instead" for Windows 10 2025 and complete installation :  <br/>
 <img src="https://i.imgur.com/wci3Jgk.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-
-  
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Window 10 Enterprise Running:  <br/>
+<img src="https://i.imgur.com/vkrmAvn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+
+
+
+
 <br />Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
