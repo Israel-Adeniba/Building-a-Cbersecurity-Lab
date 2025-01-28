@@ -154,10 +154,13 @@ Select the downloaded Windows 10 file (19045.2006.220908-0225.22h2_release_svc_r
 <br />
 <br />
 Complete installation and Setup process:  <br/>
-<img src="https://i.imgur.com/1DTOx9k.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://i.imgur.com/4bxraNc.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-
+ Select "Domain join instead" for Windows 10 2025:  <br/>
+<img src="https://i.imgur.com/wci3Jgk.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<br />
+<br />
 
   
 Wait for process to complete (may take some time):  <br/>
