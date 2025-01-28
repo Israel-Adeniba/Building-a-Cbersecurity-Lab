@@ -104,7 +104,7 @@ Log-in: username: kali, password: kali  <br/>
 <img src="https://imgur.com/6TJOoJS.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Step"/>
 <br />
 <br />
-Setup Windows Server 2022; Click New in VirtualBox, fill name: Windows Server 2022,  add a destination folder, type: Microsoft Windows  the parameters   <br/>
+Setup Windows Server 2022; Click New in VirtualBox, fill name: Windows Server 2022,  add a destination folder, Type: Microsoft Windows, Version: Windows 10 (64-bit<br/>
 <img src="https://imgur.com/u9mvILb.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
@@ -133,15 +133,24 @@ Open Windows Server 2022 on VirtualBox:  <br/>
 <img src="https://i.imgur.com/G43rDJ1.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-
-
-
+Set-up Kali-linux; Click New in VirtualBox, fill name: Windows 10 2025,  add a destination folder, Type: Microsoft Windows, Version: Windows 10 (64-bit) :  <br/>
+<img src="https://i.imgur.com/pqgcl6Q.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<br />
+<br />
+For the hardware, we selected 2MB and 1 CPU:  <br/>
+<img src="https://i.imgur.com/PHwrE6Q.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<br />
+<br />
+Select the file location, choose VirtualBox Disk Image (VDI) as it can only be used by VirtualBox. Finish setup :  <br/>
+<img src="https://i.imgur.com/5PK7F5k.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<br />
+<br />
+Open Windows 10 2025 on VirtualBox:  <br/>
+<img src="https://imgur.com/gCvUJJy.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<br />
+<br />
 
   
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/G43rDJ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
