@@ -166,7 +166,15 @@ Window 10 Enterprise Running:  <br/>
 <br />
 <br />
 
-<br />:  <br/>
+
+# Connecting the Virtual Network
+ <p align="center">
+ <br/>
+ Run the command "ifconfig" in the Termial Emulator on th Kali linux Virtual machine:  <br/>
+<img src="https://imgur.com/pN8fwY0.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<br />
+<br />
+ 
 <
 </p>
 
