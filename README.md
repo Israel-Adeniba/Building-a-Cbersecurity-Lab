@@ -1,6 +1,6 @@
 # Building-a-Cbersecurity-Lab
 
-# Objective
+## Objective
 To establish a practical, hands-on cybersecurity lab environment for learning and testing real-world scenarios, gain expertise in deploying and managing security tools and techniques, Simulate and mitigate security threats,also prepare for real-world cybersecurity roles, such as SOC analyst, penetration tester, or systems administrator. This includes setting up essential tools and systems for penetration testing, vulnerability assessment, network analysis, and secure system configurations.
  
 <h2>Languages and Utilities Used</h2>
