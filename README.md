@@ -141,19 +141,19 @@ Set-up Kali-linux; Click New in VirtualBox, fill name: Windows 10 2025,  add a d
 <img src="https://i.imgur.com/pqgcl6Q.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-For the hardware, we selected 2MB and 1 CPU:  <br/>
+ For the hardware, we selected 2MB and 1 CPU:  <br/>
 <img src="https://i.imgur.com/PHwrE6Q.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-Select the file location, choose VirtualBox Disk Image (VDI) as it can only be used by VirtualBox. Finish setup :  <br/>
+ Select the file location, choose VirtualBox Disk Image (VDI) as it can only be used by VirtualBox. Finish setup :  <br/>
 <img src="https://i.imgur.com/5PK7F5k.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-Start Windows 10 2025 on VirtualBox:  <br/>
+ Start Windows 10 2025 on VirtualBox:  <br/>
 <img src="https://imgur.com/AMPeSQ9.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-Select the downloaded Windows 10 file (19045.2006.220908-0225.22h2_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_en-us.iso) when prompted. Click "Mount and Retry Boot"  <br/>
+ Select the downloaded Windows 10 file (19045.2006.220908-0225.22h2_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_en-us.iso) when prompted. Click "Mount and Retry Boot"  <br/>
 <img src="https://imgur.com/GKX43gN.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
@@ -175,9 +175,19 @@ Window 10 Enterprise Running:  <br/>
 
  To get the ip address of the Klilinux Virtual Machine, run the command "ifconfig" in the Terminal Emulator on the Kali linux VM.
 <img src="https://imgur.com/vY0TufN.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
-<br />
-<br />
- 
+<br/>
+<br/>
+To get the ip address of the Windows 10 VM and Windows Server, run the command "ipconfig" in the Command prompt terminal on the respective machines.
+<br/>
+<img src="https://imgur.com/snTV5Aj.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/kL0YA3p.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<br/>
+<br/>
+To ensure the systems are connected, ping every other system from each machine;
+Ping the Windows 10 VM and Windows 2022 server from the Kali VM
+<img src="https://imgur.com/wamTYSL.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<br/>
+<br/>
 <
 </p>
 
