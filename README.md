@@ -188,10 +188,12 @@ To ensure the systems are connected, ping every other system from each machine;
 <img src="https://imgur.com/wamTYSL.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br/>
 <br/>
+
 - Ping the Kali VM and Window 10 VM from the Windows 2022 server 
 <img src="https://imgur.com/JKZj9bx.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br/>
 <br/>
+
 - Ping the Kali VM and Windows 2022 server from the Windows 10 VM 
 <img src="https://imgur.com/Rdi7kPo.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br/>
