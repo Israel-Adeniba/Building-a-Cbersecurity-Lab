@@ -1,7 +1,7 @@
 # Building-a-Cbersecurity-Lab
 
 ## Objective
-To establish a practical, hands-on cybersecurity lab environment for learning and testing real-world scenarios, gain expertise in deploying and managing security tools and techniques, Simulate and mitigate security threats,also prepare for real-world cybersecurity roles, such as SOC analyst, penetration tester, or systems administrator. This includes setting up essential tools and systems for penetration testing, vulnerability assessment, network analysis, and secure system configurations.
+This project aims to establish a practical hands-on cybersecurity lab environment for learning and testing real-world scenarios, gain expertise in deploying and managing security tools and techniques, Simulate and mitigate security threats, also prepare for real-world cybersecurity roles, such as SOC analyst, penetration tester, or systems administrator. This includes setting up essential tools and systems for penetration testing, vulnerability assessment, network analysis, and secure system configurations.
  
 <h2>Languages and Utilities Used</h2>
 
@@ -14,8 +14,9 @@ To establish a practical, hands-on cybersecurity lab environment for learning an
 - <b>Windows 10 Enterprise</b> 
 - <b>Windows Server 2022</b> 
 
+
 <h2>Program walk-through:</h2>
-Firstly we would download all the files we need which include;
+1.  Download all files which include;
 
 - Oracle VirtualBox
 [https://www.virtualbox.org/wiki/Downloads] or Go to google, search for Oracle VirtualBox and click the first link presented as a result, click download
@@ -38,9 +39,12 @@ Firstly we would download all the files we need which include;
 
 Nota bene: I strongly recommend creating a new folder to store the downloaded files. 
 
-# Downloads
-<p align="center">
- : <br/>
+2. Set-up and install programs
+3. Connecting the Virtual Network; Network environment setup, connecting all devices and the particular network connection established.
+
+   
+<h2>Phase 1: Download Utilities and Environment </h2>
+
 Download VirtualBox: <br/>
  Click on the corresponding operating system you have; there are options for MacOS, Windows, Linux and Solaris.
 <img src="https://imgur.com/1w7qPhN.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
@@ -87,9 +91,9 @@ Downloaded file (7 Zip): <br/>
 <br />
 <br />
  
- # Setup and Installation
- <p align="center">
- <br/>
+
+ <h2>Phase 2: Setup and installation </h2> <p align="center">
+ 
  Install and open VirtualBox:  <br/>
 <img src="https://imgur.com/pN8fwY0.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
@@ -167,11 +171,10 @@ Window 10 Enterprise Running:  <br/>
 <br />
 
 
-# Connecting the Virtual Network
- <p align="center">
- <br/>
- Run the command "ifconfig" in the Termial Emulator on the Kali linux Virtual machine to get thee ip address of thee machine:  <br/>
-<img src="https://imgur.com/pN8fwY0.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<h2>Phase 3: Connecting the Virtual Network </h2>
+
+ To get the ip address of the Klilinux Virtual Machine, run the command "ifconfig" in the Terminal Emulator on the Kali linux VM.
+<img src="https://imgur.com/vY0TufN.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
  
