@@ -137,7 +137,10 @@ Start Windows Server 2022 on VirtualBox:  <br/>
 <img src="https://i.imgur.com/G43rDJ1.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
-Set-up Kali-linux; Click New in VirtualBox, fill name: Windows 10 2025,  add a destination folder, Type: Microsoft Windows, Version: Windows 10 (64-bit) :  <br/>
+Set-up Windows 10 Enterprise; <br />
+Click New in VirtualBox <br />
+Fill name: Windows 10 2025 <br />
+Add a destination folder, Type: Microsoft Windows, Version: Windows 10 (64-bit) :  <br/>
 <img src="https://i.imgur.com/pqgcl6Q.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
