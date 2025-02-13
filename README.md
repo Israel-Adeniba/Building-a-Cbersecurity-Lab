@@ -55,7 +55,7 @@ Download VirtualBox: <br/>
 <br />
 <br />
 Select the ISO download 64-bit edition : <br/>
-<img src="https://imgur.com/NhooXIz.png height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
+<img src="https://imgur.com/NhooXIz.png" height="80%" width="80%" alt="Building a Cybersecurity Lab Steps"/>
 <br />
 <br />
 Downloaded file:  <br/>
